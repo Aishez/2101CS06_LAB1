@@ -6,6 +6,12 @@ double add(double a, double b)
     return c;
 }
 
+double subtract(double a, double b)
+{
+    double c = a - b;
+    return c;
+}
+
 int main()
 {
     int x;
